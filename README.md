@@ -18,3 +18,10 @@ MinecraftのNBTを編集できるツールです。
 * exec
   任意のコードを実行します
   開発者向けです
+
+# require
+* NBT 1.5.0
+  https://pypi.org/project/NBT/
+  
+# 注意
+  初期状態だとパスが作成者用にされているのでNBTEditer.py内のpmmpFolderを自分のパスをかえてください
