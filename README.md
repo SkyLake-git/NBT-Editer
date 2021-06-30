@@ -22,6 +22,8 @@ MinecraftのNBTを編集できるツールです。
 # require
 * NBT 1.5.0
   https://pypi.org/project/NBT/
+* Python 3.9.2
+  https://www.python.org/downloads/release/python-392/
   
 # 注意
   初期状態だとパスが作成者用にされているのでNBTEditer.py内のpmmpFolderを自分のパスをかえてください
