@@ -26,4 +26,4 @@ MinecraftのNBTを編集できるツールです。
   https://www.python.org/downloads/release/python-392/
   
 # 注意
-  初期状態だとパスが作成者用にされているのでNBTEditer.py内のpmmpFolderを自分のパスをかえてください
+  初期状態だとパスが作成者用にされているのでNBTEditer.py内のpmmpFolderをあなたのパスにかえてください
